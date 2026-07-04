@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+Largest_economies.csv
